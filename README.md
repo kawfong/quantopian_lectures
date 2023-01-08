@@ -7,7 +7,7 @@ The course content is copied from [quantrocket](https://www.quantrocket.com/code
 |Progress|Lecture # | Title | Description |
 |-----|----------|-------|-------------|
 | <ul><li>- [x] </li></ul> | [Lecture 2](https://github.com/kawfong/quantopian_lectures/tree/main/Introduction_to_Python)  | Introduction to Python                                       | Basic introduction to Python semantics and data structures      
-| <ul><li>- [ ] </li></ul> | Lecture 3  | Introduction to NumPy                                        | Introduction to NumPy, a data computation library                                                      |
+| <ul><li>- [x] </li></ul> | [Lecture 3](https://github.com/kawfong/quantopian_lectures/tree/main/Introduction_to_Numpy)  | Introduction to NumPy                                        | Introduction to NumPy, a data computation library                                                      |
 | <ul><li>- [ ] </li></ul> | Lecture 4  | Introduction to pandas                                       | Introduction to pandas, a library for managing and analyzing data                                      |
 | <ul><li>- [ ] </li></ul> | Lecture 5  | Plotting Data                                                | How to plot data with matplotlib                                                                       |
 | <ul><li>- [ ] </li></ul> | Lecture 6  | Means                                                        | Understanding and calculating different types of means                                                 |
