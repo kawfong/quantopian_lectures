@@ -2,13 +2,13 @@
 Quantopian was shut down back in 2020 and the [lectures from the quantopian repo](https://github.com/quantopian/research_public/tree/e183ecd093efbebce9b0febdc7d0253159c04061/notebooks/lectures) are no longer maintained. Reworking with the past lectures in python3, so people who're interested in getting into Quant in 2023 don't have to work with Python2
 
 ## Contents
-The course content is copied from [quantrocket](https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Introduction.ipynb.html). Will update the `.ipynb` file as I go through the lectures. 
+The course content is copied from [ih2502mk](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291). Will update the `.ipynb` file as I go through the lectures. 
 ### Intro To Python
 |Progress|Lecture # | Title | Description |
 |-----|----------|-------|-------------|
 | <ul><li>- [x] </li></ul> | [Lecture 2](https://github.com/kawfong/quantopian_lectures/tree/main/Introduction_to_Python)  | Introduction to Python                                       | Basic introduction to Python semantics and data structures      
 | <ul><li>- [x] </li></ul> | [Lecture 3](https://github.com/kawfong/quantopian_lectures/tree/main/Introduction_to_Numpy)  | Introduction to NumPy                                        | Introduction to NumPy, a data computation library                                                      |
-| <ul><li>- [ ] </li></ul> | Lecture 4  | Introduction to pandas                                       | Introduction to pandas, a library for managing and analyzing data                                      |
+| <ul><li>- [x] </li></ul> | [Lecture 4](https://github.com/kawfong/quantopian_lectures/tree/main/Introduction_to_Pandas)  | Introduction to pandas                                       | Introduction to pandas, a library for managing and analyzing data                                      |
 | <ul><li>- [ ] </li></ul> | Lecture 5  | Plotting Data                                                | How to plot data with matplotlib                                                                       |
 | <ul><li>- [ ] </li></ul> | Lecture 6  | Means                                                        | Understanding and calculating different types of means                                                 |
 | <ul><li>- [ ] </li></ul> | Lecture 7  | Variance                                                     | Understanding and calculating measures of dispersion                                                   |
