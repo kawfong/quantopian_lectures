@@ -1,5 +1,4 @@
 # quantopian_lectures
-Quantopian was shut down back in 2020 and the [lectures from the quantopian repo](https://github.com/quantopian/research_public/tree/e183ecd093efbebce9b0febdc7d0253159c04061/notebooks/lectures) are no longer maintained. Reworking with the past lectures in python3, so people who're interested in getting into Quant in 2023 don't have to work with Python2
 
 ## Contents
 The course content is copied from [ih2502mk](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291). Will update the `.ipynb` file as I go through the lectures. 
